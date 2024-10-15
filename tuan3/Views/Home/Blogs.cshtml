@@ -1,0 +1,23 @@
+﻿
+<div class="panel panel-primary panel-post">
+    <div class="panel-heading panel-heading-prod">
+        <i class="fa fa-comments-o"></i> Bài viết chăm sóc máy của bạn
+    </div>
+    @foreach (var item in Model.Blogs)
+    {
+        <div class="panel-body" style="text-align:justify">
+            <h4><a href="/bai-viet/@item.Link-@item.IdBlog">@item.Title</a></h4>
+            <p>@item.Description</p>
+        </div>
+        <div class="panel-footer">
+            <p class="more-prod">
+                <a href="/bai-viet" target="_blank">
+                    Xem thêm bài
+                    viết...
+                </a>
+            </p>
+        </div>
+    }
+
+
+</div>

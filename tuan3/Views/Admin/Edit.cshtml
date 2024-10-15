@@ -1,0 +1,59 @@
+﻿@model tuan3.Models.Product
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdPro" />
+            <div class="form-group">
+                <label asp-for="NamePro" class="control-label"></label>
+                <input asp-for="NamePro" class="form-control" />
+                <span asp-validation-for="NamePro" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Img1" class="control-label">Image</label>
+                <input  asp-for="Img1" class="form-control" />
+                <input type="hidden" asp-for="Img1" />
+                <span asp-validation-for="Img1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Order" class="control-label"></label>
+                <input asp-for="Order" class="form-control" />
+                <span asp-validation-for="Order" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Link" class="control-label"></label>
+                <input asp-for="Link" class="form-control" />
+                <span asp-validation-for="Link" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Hide" class="control-label"></label>
+                <input asp-for="Hide" class="form-control" />
+                <span asp-validation-for="Hide" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdCat" class="control-label"></label>
+                <select asp-for="IdCat" class="form-control" asp-items="ViewBag.CategoryList"></select>
+                <span asp-validation-for="IdCat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-primary">Quay lại</a>
+</div>
+

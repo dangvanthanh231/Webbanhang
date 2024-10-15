@@ -1,0 +1,52 @@
+﻿@model WebsiteBanHang.ViewModels.ProductViewModel
+@foreach (var item in Model.Prods)
+{
+    <div class="row">
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <img style="height:200px" id="mainImage" src="~/images/products/@item.Img1" alt="Main
+Image" class="img-responsive main-image">
+                </div>
+            </div>           
+        </div>
+        <div class="col-md-6">
+            <h2>@item.NamePro</h2>
+            <h4>
+                Giá gốc: <strike style="color:red;">
+                    @string.Format("{0:N0}",
+                             (float)item.Price * 1.5) VNĐ
+                </strike>
+            </h4>
+            <h4>
+                Giá giảm sốc: <i style="font-weight: bold; color:
+green;">@string.Format("{0:N0}", (float)item.Price) VNĐ</i>
+            </h4>
+            <form class="form-horizontal">
+                
+                
+                <div class="form-group">
+                    <div class="col-md-offset-4 col-md-8">
+                        <a class="btn btn-danger" href="/them-gio-hang?ProductId=@item.IdPro&Quantity=1">
+                            <i class="fa fa-spin fa-spinner"></i> Mua ngay
+                        </a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+}
+@section scripts {
+    <script>
+        function changeImage(img) {
+            var mainImage = document.getElementById('mainImage');
+            var tempSrc = mainImage.src;
+            mainImage.src = img.src;
+            img.src = tempSrc;
+        }
+    </script>
+}
+<div>
+    <a asp-action="Index" class="btn btn-primary">Quay lại</a>
+</div>

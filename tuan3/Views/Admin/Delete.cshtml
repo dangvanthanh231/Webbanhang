@@ -1,0 +1,17 @@
+﻿@model tuan3.Models.Product
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <h2>Are you sure you want to delete this?</h2>
+    <div>
+        <img style="height:200px" src="~/images/products/@Model.Img1" class="img-rounded" alt="@Model.NamePro">
+        <h4>Name: @Model.NamePro</h4>
+        <h4>Price: @Model.Price</h4>
+    </div>
+    <form asp-action="DeleteConfirmed" enctype="multipart/form-data">
+
+        <input type="submit" value="Delete" asp-route-id="@Model.IdPro" class="btn btn-danger" /> |
+        <a asp-action="Index">Cancel</a>   
+    </form>
+</div>

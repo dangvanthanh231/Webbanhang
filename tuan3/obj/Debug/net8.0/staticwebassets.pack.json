@@ -1,0 +1,629 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebsiteBanHang.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebsiteBanHang.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\backgrounddefault.jpg",
+      "PackagePath": "staticwebassets\\images\\backgrounddefault.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\banner-1.png",
+      "PackagePath": "staticwebassets\\images\\banner-1.png"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\banner.png",
+      "PackagePath": "staticwebassets\\images\\banner.png"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\banner1.png",
+      "PackagePath": "staticwebassets\\images\\banner1.png"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\hinhnen.jpg",
+      "PackagePath": "staticwebassets\\images\\hinhnen.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap1.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap1.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap10.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap10.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap11.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap11.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap12.webp",
+      "PackagePath": "staticwebassets\\images\\products\\lap12.webp"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap13.webp",
+      "PackagePath": "staticwebassets\\images\\products\\lap13.webp"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap14.webp",
+      "PackagePath": "staticwebassets\\images\\products\\lap14.webp"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap2.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap2.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap3.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap3.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap4.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap4.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap5.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap5.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap6.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap6.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap7.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap7.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap8.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap8.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\lap9.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\lap9.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may1.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may1.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may10.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may10.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may11.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may11.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may12.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\may12.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may2.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may2.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may3.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may3.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may4.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may4.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may5.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may5.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may6.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may6.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may7.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may7.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may8.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may8.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\may9.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\may9.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\products\\tải xuống.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\tải xuống.jfif"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\sliders\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\sliders\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\sliders\\sliders-1.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\sliders-1.png"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\sliders\\sliders-2.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\sliders-2.png"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\sliders\\sliders-3.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\sliders-3.png"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\images\\sliders\\sliders-4.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\sliders-4.png"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\js\\cart.js",
+      "PackagePath": "staticwebassets\\js\\cart.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\extras.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\extras.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_extras.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Đồ án cuối kỳ\\WebsiteBanHang\\tuan3\\wwwroot\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebsiteBanHang.props",
+      "PackagePath": "build\\WebsiteBanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsiteBanHang.props",
+      "PackagePath": "buildMultiTargeting\\WebsiteBanHang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebsiteBanHang.props",
+      "PackagePath": "buildTransitive\\WebsiteBanHang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
